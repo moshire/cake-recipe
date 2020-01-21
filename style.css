@@ -5,7 +5,7 @@ body, html{
     color: white;
 }
 
-/* .cd-logo {
+.cd-logo {
     position: relative;
     background-position: center;
     background-repeat: no-repeat;
@@ -14,7 +14,7 @@ body, html{
     min-height: 100%;
   }
 
-  .cd-logo {
+  /* .cd-logo {
     background-image: url("https://cdn.worldvectorlogo.com/logos/cd-savon-logo.svg");
     min-height: 100%;
     background-size: auto;
@@ -32,4 +32,4 @@ body, html{
     background-color:#642580;
     padding:50px 80px;
   }
-   */
+    */
